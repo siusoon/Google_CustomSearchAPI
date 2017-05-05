@@ -8,9 +8,8 @@ The Google Image Search API has been officially deprecated as of May 26, 2011. G
 3. Create a new search engine id: https://cse.google.com/all
 
 ## Screenshots:
-![ScreenShot_CGI](https://github.com/siusoon/Google_CustomSearchAPI/blob/master/screenshot_cgiResult.png)
-
-![ScreenShot_js](https://github.com/siusoon/Google_CustomSearchAPI/blob/master/screenshot_jsResult.png)
+![ScreenShot_CGI](https://github.com/siusoon/Google_CustomSearchAPI/blob/master/screenshot_cgiResult.png =250x)
+![ScreenShot_js](https://github.com/siusoon/Google_CustomSearchAPI/blob/master/screenshot_jsResult.png =250x)
 
 ## Notes:
 1. Replace your own API key, Engine ID (cx) and Query parameters
