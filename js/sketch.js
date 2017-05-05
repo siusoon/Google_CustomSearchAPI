@@ -1,8 +1,6 @@
 /*
 test on Google API
 */
-//var request = "https://www.googleapis.com/customsearch/v1?key=AIzaSyCTO7cWCMZDi-d7zMwqPEHLTDc5fUoa4vc&cx=012341178072093258148:lummcqp_ilw&q=hello";
-
 var url = "https://www.googleapis.com/customsearch/v1?";
 var apikey = "INPUT YOUR OWN KEY";  //register API key here: https://developers.google.com/custom-search/json-api/v1/overview
 var engineID = "INPUT YOUR OWN"; //https://cse.google.com/all  | create search engine, then get the searchengine ID - make sure image is on
