@@ -1,6 +1,6 @@
 # Google_CustomSearchAPI
 
-The Google Image Search API has been officially deprecated as of May 26, 2011. Google recommends its users to use the Custome Search Engine. This repository demonstrates how to connect with the custom search API in PERL and Javascript. 
+The Google Image Search API has been officially deprecated as of May 26, 2011. Google recommends its users to use the Custome Search Engine. This repository demonstrates how to connect with the custom search API in PERL and Javascript (p5.js). 
 
 ## Steps:
 1. Check out [Custom Search API](https://developers.google.com/custom-search/)
