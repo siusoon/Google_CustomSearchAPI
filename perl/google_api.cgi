@@ -35,11 +35,8 @@ if ($response->is_success) {
     #print "Received reply: $message\n";
     my $json = new JSON;
     my $query = decode_json $message;
-  	#print($query->{url}{type});
 	my $extract1 = $query->{items};
     for my $pick (@$extract1) {
-       #print $pick->{snippet}, "\n";
-       #the list: items>0>pagemap>cse_thumbnail > 0 > src
        print "$pick->{image}->{thumbnailLink}";
        print "<p>";
        print "<img src='$pick->{image}->{thumbnailLink}'>";
